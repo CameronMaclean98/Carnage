@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 9d86af4fba9a8ea49a6a8480df937b50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GodP1: {instanceID: 0}
+  - GodP2: {instanceID: 0}
+  - GodP3: {instanceID: 0}
+  - GodP4: {instanceID: 0}
+  - GodP5: {instanceID: 0}
+  - GodP6: {instanceID: 0}
+  - Team1: {instanceID: 0}
+  - Team2: {instanceID: 0}
+  - Team3: {instanceID: 0}
+  - Team4: {instanceID: 0}
+  - Team5: {instanceID: 0}
+  - Team6: {instanceID: 0}
+  - Player1: {fileID: 11400000, guid: 47dc27bdd99103b40b45f4da0df8b21f, type: 2}
+  - Player2: {fileID: 11400000, guid: e02da229bd1c3df45a5c237dfce2fb4e, type: 2}
+  - Player3: {fileID: 11400000, guid: ab345e400cadcee44b18a23bb5d1fe1d, type: 2}
+  - Player4: {fileID: 11400000, guid: 3ce0b5a569d5e5940a83df494bf453fa, type: 2}
+  - Player5: {fileID: 11400000, guid: 5d8e3dcbf3b6aa344be8260c07ba5fc3, type: 2}
+  - Player6: {fileID: 11400000, guid: a1a3488cbb0a0b440b5703b52a4816e3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
