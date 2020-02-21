@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "com.unity.entities": "0.0.12-preview.8",
+    "com.unity.render-pipelines.lightweight": "1.1.11-preview",
+    "com.unity.mathematics": "1.0.0-preview.1",
+    "com.unity.jobs": "0.0.7-preview.2",
+    "com.unity.burst": "0.2.4-preview.20"
+  }
+}
